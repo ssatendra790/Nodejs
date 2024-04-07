@@ -8,3 +8,24 @@ POST /api/users - Create new user
 PATCH /api/users/1 - Edit the user with ID 1
 
 DELETE /api/users/1 - Delete the User with ID 1
+1712495372195.::1 GET: /api/users
+
+1712495517366.::1 POST: /api/users
+
+1712495529388.::1 POST: /api/users
+
+1712498757778.::1 POST: /api/users
+
+1712499052837.::1 GET: /api/users/65f7e7b1e53307610594dd29
+
+1712499071314.::1 GET: /api/users/65f7e91d6f8826a9d8654cc5
+
+1712499130695.::1 POST: /api/users
+
+1712499546001.::1 POST: /api/users
+
+1712499774222.::1 GET: /api/users
+
+1712499803469.::1 POST: /api/users
+
+1712499874120.::1 GET: /api/users
